@@ -1,1 +1,1 @@
-# Epic-Archery-Stage-3
+# project-C24-template
